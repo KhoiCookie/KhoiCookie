@@ -3,35 +3,41 @@
   "login": "KhoiCookie",
   "seed": "#A0B6E4",
   "seedFromAvatar": true,
-  "scheme": "tonalSpot",
+  "scheme": "fidelity",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
     "socials",
-    "about",
     "stack",
-    "projects",
+    "about",
     "stats",
     "streak",
     "wave",
-    "buttons"
+    "buttons",
+    "projects"
   ],
-  "hidden": [],
+  "hidden": [
+    "projects"
+  ],
   "hero": {
-    "greeting": "Hi, I'm",
+    "greeting": "Meow! I am",
     "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "subtitle": "Literally here just to look at repositories.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "code",
+        "label": "Luau · JSON"
       },
       {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "icon": "location_on",
+        "label": "Vietnam"
+      },
+      {
+        "icon": "cake",
+        "label": "22nd August"
       }
     ]
   },
@@ -40,15 +46,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "UI/UX Designer"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Frontend "
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Loves detailed interfaces"
       }
     ]
   },
@@ -59,16 +65,24 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
+            "icon": "brand:luau",
+            "label": "Luau"
           },
           {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:json",
+            "label": "JSON"
           },
           {
-            "icon": "brand:python",
-            "label": "Python"
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
           }
         ]
       },
@@ -76,16 +90,16 @@
         "title": "Tools",
         "items": [
           {
-            "icon": "brand:git",
-            "label": "Git"
+            "icon": "brand:robloxstudio",
+            "label": "Roblox Studio"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
+            "icon": "format_paint",
+            "label": "Paint.NET"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:notepadplusplus",
+            "label": "Notepad++"
           }
         ]
       }
@@ -118,16 +132,20 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "icon": "brand:gravatar",
+        "url": "https://gravatar.com/khoicookie"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@KhoiCookie"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@khoicookie"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:khoicookiewastaken@gmail.com"
       }
     ],
     "variant": "chip",
@@ -139,7 +157,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://khoicookie.neocities.org",
         "style": "filled"
       },
       {
