@@ -1,8 +1,8 @@
 {
- "key": "f2bc1ef5",
- "stars": 1,
- "contributions": 10,
- "repos": 2,
+ "key": "6d8e7765",
+ "stars": 0,
+ "contributions": 14,
+ "repos": 1,
  "followers": 0,
  "languages": [],
  "days": [
@@ -82,7 +82,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 4,
     "day": 15,
     "today": true
    },
@@ -95,24 +95,11 @@
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
  "pins": [],
  "all": [
-  {
-   "name": "msx",
-   "url": "https://github.com/KhoiCookie/msx",
-   "text": "ฅ^ >ヮ<^₎ starlightz's repo ⋆ ˚ ✿ ˖ °",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": [
-    "github-pages",
-    "service",
-    "starlightz"
-   ]
-  },
   {
    "name": "KhoiCookie",
    "url": "https://github.com/KhoiCookie/KhoiCookie",
